@@ -5,7 +5,7 @@ import Sidebar from "./components/Sidebar";
 import MainContent from "./components/MainContent";
 import Dashboard from "./Pages/Dashboard";
 import TalentPool from "./Pages/TalentPool";
-import EmployeeProfile from "./Pages/Themes";
+import EmployeeProfile from "./Pages/EmployeeProfile";
 import MyList from "./Pages/MyList";
 import Navbar from "./components/Navbar/Navbar";
 import ProfilePage from "./components/Navbar/ProfilePage";
